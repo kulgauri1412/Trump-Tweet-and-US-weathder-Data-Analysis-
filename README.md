@@ -2,6 +2,7 @@
 
 ## Weather Data ##
 The file US_WeatherEvents_2016-2019 contains over 5,000,000 rows and 13 columns. The column labels are:
+
 EventId - This is the identifier of a record.
 Type - The type of an event; examples are rain, fog. snow storm, cold.
 Severity - The severity of an event, wherever applicable.
@@ -22,7 +23,8 @@ Answer the following questions about the data set.
 5. HowmanyeventsofeachseveritydidSanDiegohave?Produceatableandbarplot.
 
 ## Trump Tweets ##
-The file trumpttweets.csv contains all President Trump's tweets up to Jan 20, 2020. The file has 9 columns with headers given below
+The file trumpttweets.csv contains all President Trump's tweets up to Jan 20, 2020. The file has 9 columns with headers given below:
+
 id - tweet id
 link - link to tweet
 content - tweet text
